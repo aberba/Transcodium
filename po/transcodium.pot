@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-28 16:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src//Widgets/AddFileDialog.vala:28
+msgid "Add a New File"
+msgstr ""
+
+#: ../src//Widgets/AddFileDialog.vala:48
+msgid "Notify after each conversion"
+msgstr ""
+
+#: ../src//Widgets/AddFileDialog.vala:66
+msgid "Cancel"
+msgstr ""
+
+#: ../src//Widgets/AddFileDialog.vala:69 ../src//Transcodium.vala:123
+msgid "Add"
+msgstr ""
+
+#: ../src//Transcodium.vala:50
+msgid "translator-credits"
+msgstr ""
+
+#: ../src//Transcodium.vala:84
+msgid "Add file"
+msgstr ""
+
+#: ../src//Transcodium.vala:101
+msgid "Preferences"
+msgstr ""
+
+#: ../src//Transcodium.vala:122
+msgid "Convert Some Files"
+msgstr ""
+
+#: ../src//Transcodium.vala:122
+msgid "Convert your audio and video files to another format."
+msgstr ""
+
+#: ../src//Transcodium.vala:123
+msgid "Select an audio or video file to convert."
+msgstr ""
+
+#: ../src//Transcodium.vala:124
+msgid "About"
+msgstr ""
+
+#: ../src//Transcodium.vala:124
+msgid "About Transcodium"
+msgstr ""

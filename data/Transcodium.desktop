@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Transcodium
+GenericName=Convertor
+Comment= Convert audio and video files
+Categories=AudioVideo;
+Exec=transcodium %U
+Icon=transcodium
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/transcodium;
+X-GNOME-Gettext-Domain=transcodium
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Exec=transcodium --about
+Name=About Transcodium

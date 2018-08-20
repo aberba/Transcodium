@@ -1,0 +1,4 @@
+/home/aberba/workspace/vala/Transcodium/build/po/CMakeFiles/i18n.dir
+/home/aberba/workspace/vala/Transcodium/build/po/CMakeFiles/pot.dir
+/home/aberba/workspace/vala/Transcodium/build/CMakeFiles/transcodium.dir
+/home/aberba/workspace/vala/Transcodium/build/CMakeFiles/uninstall.dir

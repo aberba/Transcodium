@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+6d9cb01f0a659c6637e8cc3b41960d69 CMakeFiles/uninstall
+0e674618eb840d54b5bc7461f249bf4d po/CMakeFiles/i18n
+0e674618eb840d54b5bc7461f249bf4d po/CMakeFiles/pot
+5c956922ed15fe3bee4416c5240aed54 src/Widgets/AddFileDialog.c
+aca39f40e472158dad371d46c682a71e transcodium_valac.stamp
